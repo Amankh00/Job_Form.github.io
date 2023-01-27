@@ -76,6 +76,11 @@ button:hover
     transition: 0.3s ease-out;
 cursor: pointer;
 }
+.button_container,a
+{
+    text-decoration:none;
+}
+
 .textarea_control
 {
     grid-column: 1/span 2;
